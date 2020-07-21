@@ -9,7 +9,7 @@ By Vivianti Santosa
 The three weather pattern that we observed from this exercise are as follow :
 
 ##### MAXIMUM TEMPERATURE
-The areas that are closer to the polar - both South Pole and North Pole, as indicated by the bigger number (both positive and negative) number of latitudes - are colder areas, even at their hottest months (max temperature). While the areas that are closer to the Equator.are generally warmer.
+The areas that are closer to the polar - both South Pole and North Pole, as indicated by the bigger number (both positive and negative) number of latitudes - are colder areas, even at their hottest months (max temperature). While the areas that are closer to the Equator.are generally warmer. <br>
 <img src="/Images/Max TempSouthern Hemisphere.png" width="480">   <img src="/Images/Max TempNorthern Hemisphere.png" width="480">
 
 ##### HUMIDITY
