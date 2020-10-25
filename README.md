@@ -13,16 +13,16 @@ The areas that are closer to the polar - both South Pole and North Pole, as indi
 <img src="/Images/Max TempSouthern Hemisphere.png" width="480">   <img src="/Images/Max TempNorthern Hemisphere.png" width="480">
 
 ##### HUMIDITY
-While high humidity happened in areas of various latitude, low humidity or extreme dryness only happened in certain areas that are within the latitude of 20 to 40 degrees, with lower humidity happening in areas between latitude 15 to 45.
+While high humidity happened in areas of various latitude, low humidity or extreme dryness only happened in certain areas that are within the latitude of 20 to 40 degrees, with lower humidity happening in areas between latitude 15 to 45.<br>
 <img src="/Images/pic2.png" width="480">  
 
 
 ##### CLOUDS and WINDS
 We can see from the charts below that the level of cloudiness and winds speed does not depend on the areas’ latitudes.
-The level of cloudiness is relatively not affected by the latitude at all and there are various levels of cloudiness for each latitude.
+The level of cloudiness is relatively not affected by the latitude at all and there are various levels of cloudiness for each latitude.<br>
 <img src="/Images/pic3.png" width="480"> 
 
-Extreme strong (high speed) wind, while happened in various latitude areas, happened much less often than areas of lower wind speed.
+Extreme strong (high speed) wind, while happened in various latitude areas, happened much less often than areas of lower wind speed.<br>
 <img src="/Images/pic4.png" width="480"> 
 
 # VacationPy
